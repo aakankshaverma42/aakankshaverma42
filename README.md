@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://images.huffingtonpost.com/2015-09-14-1442203450-2596369-thisprogrammer-thumb.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshaverma42&label=Profile%20views&color=0e75b6&style=flat" alt="aakankshaverma42" /> </p>
 
-- 🔭 I’m currently working on **Latest Development skills**
+- 🔭 I’m currently working on **Development skills**
 
 - 🌱 I’m currently learning **Competitive Coding & DSA**
 
-- 👯 I’m looking to collaborate on **exciting Projects**
+- 👯 I’m looking to collaborate on **new exciting Projects**
 
 - 📫 How to reach me **aakankshav2901@gmail.com**
 
