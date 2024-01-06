@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **new exciting Projects**
 
-- 📫 How to reach me **aakankshav2901@gmail.com**
+- 📫 How to reach me **aakankshaverma2901@gmail.com**
 
 - ⚡ Fun fact **I'm Alien👽**
 
